@@ -1,4 +1,4 @@
-# SciBot
+# PenguinBot
 
 ## Introduction
 **This bot has been created by [hypernovaradiation](https://github.com/hypernovaradiation).**
